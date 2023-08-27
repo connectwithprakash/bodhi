@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Motivation
+title:  My Traits
 date:   2023-07-11 23:09:05
 description: Understanding my habits.
 tags: thoughts conscience nature self-reflection
